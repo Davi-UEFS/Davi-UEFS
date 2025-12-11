@@ -41,4 +41,5 @@ I'm a Computer Engineering student at UEFS (Universidade Estadual de Feira de Sa
 ## 📬 Get in Touch
 
 - 📧 Email: [uefsdavi@gmail.com](mailto:uefsdavi@gmail.com)
+- 💼 LinkedIn: [Davi Rocha](https://linkedin.com/in/davi-rocha-ab38962b1)
 ---
