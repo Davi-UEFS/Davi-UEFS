@@ -1,4 +1,4 @@
-# Hi, I'm Davi Rocha! 👋
+# Hi, I'm Davi Rocha!
 
 I'm a Computer Engineering student at UEFS (Universidade Estadual de Feira de Santana). Currently exploring embedded systems, digital design, and backend development.
 
@@ -6,9 +6,9 @@ I'm a Computer Engineering student at UEFS (Universidade Estadual de Feira de Sa
 
 ## About Me
 
-- 🎓 5th semester Computer Engineering student at UEFS
-- 🔧 Interested in hardware design, embedded systems, and backend development
-- 👨‍🏫 Taught a 40-hour C programming mini-course to fellow students
+- I'm at my 5th semester in Computer Engineering
+- Interested in hardware design, embedded systems, and backend development
+- Taught a 40-hour C programming mini-course to fellow students
 
 ## Tech Stack
 
@@ -26,9 +26,9 @@ I'm a Computer Engineering student at UEFS (Universidade Estadual de Feira de Sa
 
 ##  Currently Exploring
 
-- 🔌 Embedded Systems & Microcontrollers
-- ⚡ Digital Circuit Design with Verilog
-- 🖥️ Low-level programming
+-  Embedded Systems & Microcontrollers
+-  Digital Circuit Design with Verilog
+-  Low-level programming
 
 ##  Areas of Interest
 
@@ -38,7 +38,7 @@ I'm a Computer Engineering student at UEFS (Universidade Estadual de Feira de Sa
 - Digital Systems Design
 - Computer Architecture
 
-## 📬 Get in Touch
+## My contacts
 
 - 📧 Email: [uefsdavi@gmail.com](mailto:uefsdavi@gmail.com)
 - 💼 LinkedIn: [Davi Rocha](https://linkedin.com/in/davi-rocha-ab38962b1)
