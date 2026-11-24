@@ -2,8 +2,6 @@
 
 I'm a Computer Engineering student at UEFS (Universidade Estadual de Feira de Santana). Currently exploring embedded systems, digital design, and backend development.
 
-![Davi's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Davi-UEFS&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&icon_color=00ff00&title_color=00ff00&border_color=1a1a1a&count_private=true)
-
 ## About Me
 
 - I'm at my 5th semester in Computer Engineering
