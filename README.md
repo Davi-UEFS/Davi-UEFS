@@ -16,6 +16,8 @@ I'm a Computer Engineering student at UEFS (Universidade Estadual de Feira de Sa
 - Python
 - C
 - Java
+- SpringBoot
+- Go
 - Verilog
 - Assembly
 
@@ -23,17 +25,15 @@ I'm a Computer Engineering student at UEFS (Universidade Estadual de Feira de Sa
 - Git & GitHub
 - VSCode
 - IntelliJ IDEA
+- Quartus II
 
 ##  Currently Exploring
 
--  Embedded Systems & Microcontrollers
--  Digital Circuit Design with Verilog
--  Low-level programming
+-  Software Engeneering
 
 ##  Areas of Interest
 
 - Backend Dev
-- Systems Programming
 - Embedded Systems Development
 - Digital Systems Design
 - Computer Architecture
