@@ -4,7 +4,7 @@ I'm a Computer Engineering student at UEFS (Universidade Estadual de Feira de Sa
 
 ## About Me
 
-- I'm at my 5th semester in Computer Engineering
+- I'm at my 6th semester in Computer Engineering
 - Interested in hardware design, embedded systems, and backend development
 - Taught a 40-hour C programming mini-course to fellow students
 
